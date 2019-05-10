@@ -1,0 +1,13 @@
+{
+    "ucd_server": "https://206.189.45.16:8443",
+    "environment": [{
+        "dev" : {
+            "alias": "dev-alias",
+            "appId": "devApp"
+        },
+        "test" : {
+            "alias": "test-alias",
+            "appId": "testApp"
+        }
+    }]
+}
